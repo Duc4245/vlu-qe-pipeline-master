@@ -2,7 +2,7 @@
 // Simple authentication module used for the Smoke Test & Regression Test lab.
 
 const users = {
-  admin: { password: '9999', locked: false },
+  admin: { password: '123', locked: false },
   locked_user: { password: 'abc123', locked: true },
 };
 
